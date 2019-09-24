@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181713425468",
+    "firebase_url": "https://megafashion-eab5f.firebaseio.com",
+    "project_id": "megafashion-eab5f",
+    "storage_bucket": "megafashion-eab5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181713425468:android:f201e78cd1fdc0e62edf39",
+        "android_client_info": {
+          "package_name": "com.example.fashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181713425468-sc0igjhi7r4jvlb6ks64tuks22gqcalu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashapp",
+            "certificate_hash": "7d0751d1bfc7157960058c8934897c9f2815cabb"
+          }
+        },
+        {
+          "client_id": "181713425468-a0rnis8rgvs83mjdc9tgj1l4ufbiedd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_TmGQveUeLXXm6lhiwBzwNZGs-Ki4l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181713425468-a0rnis8rgvs83mjdc9tgj1l4ufbiedd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
